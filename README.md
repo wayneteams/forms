@@ -10,3 +10,6 @@ to do: try Hestia CP on google cloud
 
 31 Mar: Hestia and Ubuntu went well, tried installing drupal also
 to do: will try some free style php coding
+
+16 Apr: Great progress. LIVE site for membership and promotion is now up called Oops
+batch job to process membership, points and vouchers
