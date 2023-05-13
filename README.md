@@ -13,3 +13,5 @@ to do: will try some free style php coding
 
 16 Apr: Great progress. LIVE site for membership and promotion is now up called Oops
 batch job to process membership, points and vouchers
+
+13 May: Long time no see. Things are going good, enhanced the membership site with new features.
