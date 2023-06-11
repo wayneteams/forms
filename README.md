@@ -15,3 +15,5 @@ to do: will try some free style php coding
 batch job to process membership, points and vouchers
 
 13 May: Long time no see. Things are going good, enhanced the membership site with new features.
+
+12 Jun: The google cloud trial is over and is converted to actual account now
