@@ -19,3 +19,5 @@ batch job to process membership, points and vouchers
 12 Jun: The google cloud trial is over and is converted to actual account now
 
 14 Jul: 1 month into the gcp actual running and so far is smooth
+
+3 Aug: Stinko now
