@@ -21,3 +21,5 @@ batch job to process membership, points and vouchers
 14 Jul: 1 month into the gcp actual running and so far is smooth
 
 3 Aug: Stinko now
+
+22 Sep: Can't belive it has been more than a month since update, code have been stable
