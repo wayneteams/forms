@@ -15,11 +15,8 @@ to do: will try some free style php coding
 batch job to process membership, points and vouchers
 
 13 May: Long time no see. Things are going good, enhanced the membership site with new features.
-
 12 Jun: The google cloud trial is over and is converted to actual account now
-
 14 Jul: 1 month into the gcp actual running and so far is smooth
-
 3 Aug: Stinko now
-
 22 Sep: Can't belive it has been more than a month since update, code have been stable
+19 Oct: Hey, going on a trip soon so wanted to update here that things are going fine
