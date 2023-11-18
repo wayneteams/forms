@@ -20,3 +20,4 @@ batch job to process membership, points and vouchers
 3 Aug: Stinko now
 22 Sep: Can't belive it has been more than a month since update, code have been stable
 19 Oct: Hey, going on a trip soon so wanted to update here that things are going fine
+18 Nov: Now back from trip for about 2 weeks now, pending some updates
