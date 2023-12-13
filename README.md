@@ -22,3 +22,4 @@ batch job to process membership, points and vouchers
 19 Oct: Hey, going on a trip soon so wanted to update here that things are going fine
 18 Nov: Now back from trip for about 2 weeks now, pending some updates
 26 Nov: Seems like it is not going forward, let's see
+13 Dec: Last few days left on the counter
