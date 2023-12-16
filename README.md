@@ -23,3 +23,4 @@ batch job to process membership, points and vouchers
 18 Nov: Now back from trip for about 2 weeks now, pending some updates
 26 Nov: Seems like it is not going forward, let's see
 13 Dec: Last few days left on the counter
+16 Dec: Today at anout 6pm, the subscription got renewed and it is a plesant news
