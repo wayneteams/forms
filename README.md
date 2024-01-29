@@ -25,3 +25,4 @@ batch job to process membership, points and vouchers
 13 Dec: Last few days left on the counter
 16 Dec: Today at anout 6pm, the subscription got renewed and it is a plesant news
 04 Jan: Today is first week of year, yesterday went to do hair with pleasant results
+29 Jan: Great that subscribtion is renewed few days back, will find some time to maintain
