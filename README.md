@@ -27,3 +27,4 @@ batch job to process membership, points and vouchers
 04 Jan: Today is first week of year, yesterday went to do hair with pleasant results
 29 Jan: Great that subscribtion is renewed few days back, will find some time to maintain
 26 Feb: Another month passed, have not updated much
+14 Mar: Now is at 34 days, wondering why have not been updated
