@@ -29,3 +29,4 @@ batch job to process membership, points and vouchers
 26 Feb: Another month passed, have not updated much
 14 Mar: Now is at 34 days, wondering why have not been updated
 2 Apr: Gladful for life that is still working now, current count is 76
+28 Apr: Close to a month now I do some updates and work on the tasks
