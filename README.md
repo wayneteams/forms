@@ -30,3 +30,4 @@ batch job to process membership, points and vouchers
 14 Mar: Now is at 34 days, wondering why have not been updated
 2 Apr: Gladful for life that is still working now, current count is 76
 28 Apr: Close to a month now I do some updates and work on the tasks
+25 Jun: Have not updated in 2 months. I'm good gwen cha na.
