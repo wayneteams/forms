@@ -33,3 +33,4 @@ batch job to process membership, points and vouchers
 25 Jun: Have not updated in 2 months. I'm good gwen cha na.
 29 Aug: Approaching another month. I realise I usually update here every 2 months but will try to be more often. 47 days at the count.
 30 Sep: Received the good news on 15 Sep, now will try doing dev work on the laptop for faster response.
+28 Dec: Hohoho Merry Xmas, just a regular update here that I have shift to Rivervale Edge this place
