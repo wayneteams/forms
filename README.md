@@ -36,3 +36,4 @@ batch job to process membership, points and vouchers
 28 Dec: Hohoho Merry Xmas, just a regular update here that I have shift to Rivervale Edge this place
 1 Mar: What, I can't believe I did not update in 2025. Happy life happy days hope everyone is the same.
 21 Apr: Looks like a long time, but it's about a month and half, not much updates to this application
+3 Jul (2025): Know what month this is? It seems it has been since 2023 is it?
