@@ -38,3 +38,4 @@ batch job to process membership, points and vouchers
 21 Apr: Looks like a long time, but it's about a month and half, not much updates to this application
 3 Jul (2025): Know what month this is? It seems it has been since 2023 is it?
 13 Jul: Today it got renewed to 10.10 sales day!
+17 Oct: It has been a while, life has been bad to me in the past few months. 
