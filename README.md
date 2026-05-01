@@ -40,3 +40,4 @@ batch job to process membership, points and vouchers
 13 Jul: Today it got renewed to 10.10 sales day!
 17 Oct: It has been a while, life has been bad to me in the past few months. 
 26 Feb: Wow it's already a new year, a regular update that I hope life gets better
+1 May: Long time no updates, did i tell that i started Oracle Cloud.
