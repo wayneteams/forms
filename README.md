@@ -41,3 +41,4 @@ batch job to process membership, points and vouchers
 17 Oct: It has been a while, life has been bad to me in the past few months. 
 26 Feb: Wow it's already a new year, a regular update that I hope life gets better
 1 May: Long time no updates, did i tell that i started Oracle Cloud.
+13 Jun: Regular update to keep it going, health is a roller coaster
